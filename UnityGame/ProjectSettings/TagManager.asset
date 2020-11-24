@@ -6,6 +6,12 @@ TagManager:
   tags:
   - Enemy
   - tourelle
+<<<<<<< Updated upstream
+=======
+  - ground
+  - ennemy
+  - canon
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
