@@ -6,6 +6,7 @@ TagManager:
   tags:
   - tourelle
   - ground
+  - ennemy
   layers:
   - Default
   - TransparentFX
