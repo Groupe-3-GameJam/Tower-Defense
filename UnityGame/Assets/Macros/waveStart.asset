@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1083378141, guid: dcd2196c4e9166f499793f2007fcda35, type: 3}
+  m_Name: waveStart
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"title":null,"summary":null,"pan":{"x":-257.0,"y":-91.0},"zoom":1.0,"elements":[{"nest":{"source":"Macro","macro":0,"embed":null},"isStart":true,"position":{"x":-348.0,"y":-242.0},"width":170.0,"guid":"40425513-3898-4c16-bc67-2b76fccf7319","$version":"A","$type":"Bolt.FlowState","$id":"3"},{"nest":{"source":"Macro","macro":1,"embed":null},"isStart":false,"position":{"x":-372.0,"y":-20.0},"width":170.0,"guid":"155e024c-b80a-49f6-b585-c2ba5218f39b","$version":"A","$type":"Bolt.FlowState","$id":"5"},{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":176.0,"y":-11.0},"zoom":1.0,"elements":[{"defaultValues":{},"position":{"x":100.0,"y":-50.0},"guid":"13f581ec-01df-433b-9bfc-5d42a7233961","$version":"A","$type":"Bolt.TriggerStateTransition","$id":"17"},{"argumentCount":0,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"Shoot","$type":"System.String"}},"position":{"x":-180.0,"y":-45.0},"guid":"53231e2c-cbf5-40d2-8d91-2d8bea770621","$version":"A","$type":"Bolt.CustomEvent","$id":"19"},{"sourceUnit":{"$ref":"19"},"sourceKey":"trigger","destinationUnit":{"$ref":"17"},"destinationKey":"trigger","guid":"420ad76f-6f81-4a65-bfc4-dc92dbbf3e73","$type":"Bolt.ControlConnection"}],"$version":"A"}},"source":{"$ref":"3"},"destination":{"$ref":"5"},"guid":"ec4b2ccc-186a-4d22-9ebf-c0673e0f038c","$version":"A","$type":"Bolt.FlowStateTransition"},{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"defaultValues":{},"position":{"x":100.0,"y":-50.0},"guid":"1dc2f325-5e65-4ec0-aa06-b8c539ebb56c","$version":"A","$type":"Bolt.TriggerStateTransition","$id":"32"},{"argumentCount":0,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"","$type":"System.String"}},"position":{"x":-107.0,"y":-51.0},"guid":"860a45c0-745d-475a-897f-ba1c4bc60c96","$version":"A","$type":"Bolt.CustomEvent","$id":"34"},{"sourceUnit":{"$ref":"34"},"sourceKey":"trigger","destinationUnit":{"$ref":"32"},"destinationKey":"trigger","guid":"764960e7-0c32-4c42-a968-83b2b9a88415","$type":"Bolt.ControlConnection"}],"$version":"A"}},"source":{"$ref":"5"},"destination":{"$ref":"3"},"guid":"489159e7-2cba-435f-956c-dcad6a411102","$version":"A","$type":"Bolt.FlowStateTransition"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 485db2b3641c95b43a1ed5c28754c585, type: 2}
+    - {fileID: 11400000, guid: ca1c8dc680de04c429fc70ff2bcda77c, type: 2}
