@@ -6,6 +6,10 @@ TagManager:
   tags:
   - tourelle
   - Enemy
+  - ground
+  - unite
+  - cannonier
+  - Turret
   layers:
   - Default
   - TransparentFX
@@ -15,7 +19,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - pickable
   - 
   - 
   - 
