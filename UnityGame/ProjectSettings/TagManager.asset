@@ -10,6 +10,7 @@ TagManager:
   - unite
   - cannonier
   - Turret
+  - money
   layers:
   - Default
   - TransparentFX
