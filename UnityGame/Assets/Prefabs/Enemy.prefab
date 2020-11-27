@@ -61,9 +61,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"collection":{"$content":[{"name":"MaxHP","value":{"$content":3.0,"$type":"System.Single"},"$version":"A"},{"name":"Health
-      Bar","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      Bar","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Enemy","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 6757868261987205183}
+    - {fileID: 8685163478402969273}
 --- !u!114 &9060991286226450328
 MonoBehaviour:
   m_ObjectHideFlags: 0

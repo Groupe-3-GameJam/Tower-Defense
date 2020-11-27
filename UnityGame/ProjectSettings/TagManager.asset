@@ -23,7 +23,11 @@ TagManager:
   - 
   - 
   - pickable
+<<<<<<< Updated upstream
   - unpickable
+=======
+  - Bullet
+>>>>>>> Stashed changes
   - 
   - 
   - 
