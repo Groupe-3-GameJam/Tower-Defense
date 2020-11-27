@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream
-guid: c3d50313db390c341bc756d024b2d56e
-=======
-guid: 38b81e34f56603c40b842344192871a4
->>>>>>> Stashed changes
+guid: 705edf0870f3d1441a2439ac744a0ce9
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,11 +31,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-<<<<<<< Updated upstream
     filterMode: -1
-=======
-    filterMode: 0
->>>>>>> Stashed changes
     aniso: 2
     mipBias: -100
     wrapU: 0
