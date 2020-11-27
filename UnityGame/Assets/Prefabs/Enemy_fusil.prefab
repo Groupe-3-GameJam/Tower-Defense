@@ -297,12 +297,12 @@ SpriteRenderer:
   m_SortingLayerID: 229830557
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 99013cc1c99bfb4448e56002eab2341d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 93c201f6b438e314dae4c3a1eaf9b2d5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.7044444, y: 3.191111}
+  m_Size: {x: 3.068, y: 5.744}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -520,7 +520,7 @@ GameObject:
   - component: {fileID: 1826158638}
   - component: {fileID: 1826158637}
   m_Layer: 0
-  m_Name: Enemy
+  m_Name: Enemy_fusil
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
