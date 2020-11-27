@@ -1,0 +1,6785 @@
+fileFormatVersion: 2
+guid: 178f67ba9e0eaa7488a362e9bafdef69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8695822239905342700
+    second: Scene_TowerDefense2_0
+  - first:
+      213: -5488575265251021278
+    second: Scene_TowerDefense2_1
+  - first:
+      213: 1299842243991093669
+    second: Scene_TowerDefense2_2
+  - first:
+      213: 7601157862084401369
+    second: Scene_TowerDefense2_3
+  - first:
+      213: 482792707925793635
+    second: Scene_TowerDefense2_4
+  - first:
+      213: 3830811638656733216
+    second: Scene_TowerDefense2_5
+  - first:
+      213: 1638431241080288117
+    second: Scene_TowerDefense2_6
+  - first:
+      213: -362723096296155698
+    second: Scene_TowerDefense2_7
+  - first:
+      213: -7335355511067968411
+    second: Scene_TowerDefense2_8
+  - first:
+      213: -4248633638571862272
+    second: Scene_TowerDefense2_9
+  - first:
+      213: -617127772989953594
+    second: Scene_TowerDefense2_10
+  - first:
+      213: -2491988282817547396
+    second: Scene_TowerDefense2_11
+  - first:
+      213: 3269813593423654772
+    second: Scene_TowerDefense2_12
+  - first:
+      213: 8061111855620536311
+    second: Scene_TowerDefense2_13
+  - first:
+      213: -370541089797684610
+    second: Scene_TowerDefense2_14
+  - first:
+      213: -7382415899254106475
+    second: Scene_TowerDefense2_15
+  - first:
+      213: -2332529635088464262
+    second: Scene_TowerDefense2_16
+  - first:
+      213: 1431998974039497542
+    second: Scene_TowerDefense2_17
+  - first:
+      213: 3047471242062523677
+    second: Scene_TowerDefense2_18
+  - first:
+      213: 9080122609310723404
+    second: Scene_TowerDefense2_19
+  - first:
+      213: -1413626550988713858
+    second: Scene_TowerDefense2_20
+  - first:
+      213: -539862503937353189
+    second: Scene_TowerDefense2_21
+  - first:
+      213: -7734949600500983474
+    second: Scene_TowerDefense2_22
+  - first:
+      213: -8416976160648303911
+    second: Scene_TowerDefense2_23
+  - first:
+      213: -1469511891638222171
+    second: Scene_TowerDefense2_24
+  - first:
+      213: 6661675370796861234
+    second: Scene_TowerDefense2_25
+  - first:
+      213: 6928234734724455319
+    second: Scene_TowerDefense2_26
+  - first:
+      213: -5260975432744850378
+    second: Scene_TowerDefense2_27
+  - first:
+      213: -6176759428656917566
+    second: Scene_TowerDefense2_28
+  - first:
+      213: 8404233686065337331
+    second: Scene_TowerDefense2_29
+  - first:
+      213: 8953132535790907756
+    second: Scene_TowerDefense2_30
+  - first:
+      213: 1019659548227044894
+    second: Scene_TowerDefense2_31
+  - first:
+      213: -3727762250467382740
+    second: Scene_TowerDefense2_32
+  - first:
+      213: 802260947248320697
+    second: Scene_TowerDefense2_33
+  - first:
+      213: 335240619956768058
+    second: Scene_TowerDefense2_34
+  - first:
+      213: 9125472850420372075
+    second: Scene_TowerDefense2_35
+  - first:
+      213: -7332402303056381835
+    second: Scene_TowerDefense2_36
+  - first:
+      213: 7283125578919233282
+    second: Scene_TowerDefense2_37
+  - first:
+      213: 4230169714107929152
+    second: Scene_TowerDefense2_38
+  - first:
+      213: -7642249113149211149
+    second: Scene_TowerDefense2_39
+  - first:
+      213: 5959629700251935999
+    second: Scene_TowerDefense2_40
+  - first:
+      213: -6590382840265636277
+    second: Scene_TowerDefense2_41
+  - first:
+      213: -357319013814866555
+    second: Scene_TowerDefense2_42
+  - first:
+      213: -7217765846140721930
+    second: Scene_TowerDefense2_43
+  - first:
+      213: -610920879007241137
+    second: Scene_TowerDefense2_44
+  - first:
+      213: -26714058544558201
+    second: Scene_TowerDefense2_45
+  - first:
+      213: 2754923619638149019
+    second: Scene_TowerDefense2_46
+  - first:
+      213: 6544667064290233492
+    second: Scene_TowerDefense2_47
+  - first:
+      213: 8146657291713258156
+    second: Scene_TowerDefense2_48
+  - first:
+      213: 6562634613716731703
+    second: Scene_TowerDefense2_49
+  - first:
+      213: -4048780267018370130
+    second: Scene_TowerDefense2_50
+  - first:
+      213: -6016422654631020676
+    second: Scene_TowerDefense2_51
+  - first:
+      213: -7225860553232880234
+    second: Scene_TowerDefense2_52
+  - first:
+      213: 1747934685627452103
+    second: Scene_TowerDefense2_53
+  - first:
+      213: 9055011253056194404
+    second: Scene_TowerDefense2_54
+  - first:
+      213: 241399946842393938
+    second: Scene_TowerDefense2_55
+  - first:
+      213: 7327755985811977044
+    second: Scene_TowerDefense2_56
+  - first:
+      213: -4388257582336783898
+    second: Scene_TowerDefense2_57
+  - first:
+      213: -2473075849573567842
+    second: Scene_TowerDefense2_58
+  - first:
+      213: 1527500961036336404
+    second: Scene_TowerDefense2_59
+  - first:
+      213: -7846333851933429329
+    second: Scene_TowerDefense2_60
+  - first:
+      213: 6181987932975243279
+    second: Scene_TowerDefense2_61
+  - first:
+      213: -8840673343932845526
+    second: Scene_TowerDefense2_62
+  - first:
+      213: -1102651188112262253
+    second: Scene_TowerDefense2_63
+  - first:
+      213: -7556445411968638880
+    second: Scene_TowerDefense2_64
+  - first:
+      213: 10239477104659790
+    second: Scene_TowerDefense2_65
+  - first:
+      213: 4274487766048720080
+    second: Scene_TowerDefense2_66
+  - first:
+      213: -5129572941248275307
+    second: Scene_TowerDefense2_67
+  - first:
+      213: -6543993572733523782
+    second: Scene_TowerDefense2_68
+  - first:
+      213: 4256944867420838043
+    second: Scene_TowerDefense2_69
+  - first:
+      213: -3555436073532626440
+    second: Scene_TowerDefense2_70
+  - first:
+      213: -8907550223726333601
+    second: Scene_TowerDefense2_71
+  - first:
+      213: -3787165295529109919
+    second: Scene_TowerDefense2_72
+  - first:
+      213: 4019464203578943847
+    second: Scene_TowerDefense2_73
+  - first:
+      213: 8083216028611051152
+    second: Scene_TowerDefense2_74
+  - first:
+      213: 5939228073181176792
+    second: Scene_TowerDefense2_75
+  - first:
+      213: 5070189421759942225
+    second: Scene_TowerDefense2_76
+  - first:
+      213: 8031690477294955048
+    second: Scene_TowerDefense2_77
+  - first:
+      213: 6663606467203195332
+    second: Scene_TowerDefense2_78
+  - first:
+      213: 5013881885266552234
+    second: Scene_TowerDefense2_79
+  - first:
+      213: -2711875705253107108
+    second: Scene_TowerDefense2_80
+  - first:
+      213: -557635504650733112
+    second: Scene_TowerDefense2_81
+  - first:
+      213: 4067570728753966778
+    second: Scene_TowerDefense2_82
+  - first:
+      213: -6977341051193379978
+    second: Scene_TowerDefense2_83
+  - first:
+      213: -8235547520067202256
+    second: Scene_TowerDefense2_84
+  - first:
+      213: -7150181122293694959
+    second: Scene_TowerDefense2_85
+  - first:
+      213: -5480166742355927186
+    second: Scene_TowerDefense2_86
+  - first:
+      213: 3141340093237899442
+    second: Scene_TowerDefense2_87
+  - first:
+      213: -7742799240792631494
+    second: Scene_TowerDefense2_88
+  - first:
+      213: -8790299867263774124
+    second: Scene_TowerDefense2_89
+  - first:
+      213: 2863747308004642280
+    second: Scene_TowerDefense2_90
+  - first:
+      213: -5163763081550339270
+    second: Scene_TowerDefense2_91
+  - first:
+      213: 5327064427230749028
+    second: Scene_TowerDefense2_92
+  - first:
+      213: 2658798370724112206
+    second: Scene_TowerDefense2_93
+  - first:
+      213: -3052845516354493458
+    second: Scene_TowerDefense2_94
+  - first:
+      213: -8065272854972941196
+    second: Scene_TowerDefense2_95
+  - first:
+      213: 4362846867461965388
+    second: Scene_TowerDefense2_96
+  - first:
+      213: -3979784613987597138
+    second: Scene_TowerDefense2_97
+  - first:
+      213: -2844717237731935067
+    second: Scene_TowerDefense2_98
+  - first:
+      213: -1686308559847982809
+    second: Scene_TowerDefense2_99
+  - first:
+      213: 5311685825493116587
+    second: Scene_TowerDefense2_100
+  - first:
+      213: -5440042590884200209
+    second: Scene_TowerDefense2_101
+  - first:
+      213: -8430899392000790005
+    second: Scene_TowerDefense2_102
+  - first:
+      213: -4287386761453574056
+    second: Scene_TowerDefense2_103
+  - first:
+      213: -6810243718569646076
+    second: Scene_TowerDefense2_104
+  - first:
+      213: -8961383667002017616
+    second: Scene_TowerDefense2_105
+  - first:
+      213: 2794062876040599819
+    second: Scene_TowerDefense2_106
+  - first:
+      213: 7976251573396338019
+    second: Scene_TowerDefense2_107
+  - first:
+      213: -8113667193496809828
+    second: Scene_TowerDefense2_108
+  - first:
+      213: -2039018392218133018
+    second: Scene_TowerDefense2_109
+  - first:
+      213: -4963441558322314057
+    second: Scene_TowerDefense2_110
+  - first:
+      213: 6869046002402215147
+    second: Scene_TowerDefense2_111
+  - first:
+      213: 3992456499843546085
+    second: Scene_TowerDefense2_112
+  - first:
+      213: -1588394981971507324
+    second: Scene_TowerDefense2_113
+  - first:
+      213: -3958033464317110183
+    second: Scene_TowerDefense2_114
+  - first:
+      213: -6101809375604735898
+    second: Scene_TowerDefense2_115
+  - first:
+      213: -1746292406789851475
+    second: Scene_TowerDefense2_116
+  - first:
+      213: 2757778761806202981
+    second: Scene_TowerDefense2_117
+  - first:
+      213: -6770280799751183757
+    second: Scene_TowerDefense2_118
+  - first:
+      213: 6794926302719617596
+    second: Scene_TowerDefense2_119
+  - first:
+      213: 6109582877221119247
+    second: Scene_TowerDefense2_120
+  - first:
+      213: -6426868712206342414
+    second: Scene_TowerDefense2_121
+  - first:
+      213: -4330874143494283075
+    second: Scene_TowerDefense2_122
+  - first:
+      213: 7530382329953726311
+    second: Scene_TowerDefense2_123
+  - first:
+      213: 6281140882969391479
+    second: Scene_TowerDefense2_124
+  - first:
+      213: 751570684160903553
+    second: Scene_TowerDefense2_125
+  - first:
+      213: -1771965608060312777
+    second: Scene_TowerDefense2_126
+  - first:
+      213: 1433334159704772315
+    second: Scene_TowerDefense2_127
+  - first:
+      213: 1991027142297538494
+    second: Scene_TowerDefense2_128
+  - first:
+      213: -7898699889945700767
+    second: Scene_TowerDefense2_129
+  - first:
+      213: -5817296765272898114
+    second: Scene_TowerDefense2_130
+  - first:
+      213: 8234571072222004063
+    second: Scene_TowerDefense2_131
+  - first:
+      213: 7518554572963581188
+    second: Scene_TowerDefense2_132
+  - first:
+      213: -2439915484860002728
+    second: Scene_TowerDefense2_133
+  - first:
+      213: -1388765131598577501
+    second: Scene_TowerDefense2_134
+  - first:
+      213: 1322855019512188233
+    second: Scene_TowerDefense2_135
+  - first:
+      213: -873560379487615563
+    second: Scene_TowerDefense2_136
+  - first:
+      213: 2843549322215364111
+    second: Scene_TowerDefense2_137
+  - first:
+      213: -646424189964233648
+    second: Scene_TowerDefense2_138
+  - first:
+      213: -2556026635751201493
+    second: Scene_TowerDefense2_139
+  - first:
+      213: 9062664737911723099
+    second: Scene_TowerDefense2_140
+  - first:
+      213: -6912536758429490631
+    second: Scene_TowerDefense2_141
+  - first:
+      213: -3748578424800667403
+    second: Scene_TowerDefense2_142
+  - first:
+      213: -7373117488102428410
+    second: Scene_TowerDefense2_143
+  - first:
+      213: 1495488392450140067
+    second: Scene_TowerDefense2_144
+  - first:
+      213: 4032372665874929231
+    second: Scene_TowerDefense2_145
+  - first:
+      213: 6745616279297482537
+    second: Scene_TowerDefense2_146
+  - first:
+      213: 4749867306776923413
+    second: Scene_TowerDefense2_147
+  - first:
+      213: -6528912887907200513
+    second: Scene_TowerDefense2_148
+  - first:
+      213: 4475024255565891501
+    second: Scene_TowerDefense2_149
+  - first:
+      213: 8001596358056129763
+    second: Scene_TowerDefense2_150
+  - first:
+      213: 3851705719361225994
+    second: Scene_TowerDefense2_151
+  - first:
+      213: 3199753298904044941
+    second: Scene_TowerDefense2_152
+  - first:
+      213: -5056099788223951568
+    second: Scene_TowerDefense2_153
+  - first:
+      213: 6252078227273428135
+    second: Scene_TowerDefense2_154
+  - first:
+      213: 6929851342849134915
+    second: Scene_TowerDefense2_155
+  - first:
+      213: 3436520822317978042
+    second: Scene_TowerDefense2_156
+  - first:
+      213: 4920644025306826373
+    second: Scene_TowerDefense2_157
+  - first:
+      213: -479983617328226334
+    second: Scene_TowerDefense2_158
+  - first:
+      213: 547946543659468866
+    second: Scene_TowerDefense2_159
+  - first:
+      213: -1145353562368240980
+    second: Scene_TowerDefense2_160
+  - first:
+      213: 4566353601052351971
+    second: Scene_TowerDefense2_161
+  - first:
+      213: 7048896600193018422
+    second: Scene_TowerDefense2_162
+  - first:
+      213: 2884657411136117720
+    second: Scene_TowerDefense2_163
+  - first:
+      213: 7307851556955057531
+    second: Scene_TowerDefense2_164
+  - first:
+      213: -2119823510969997038
+    second: Scene_TowerDefense2_165
+  - first:
+      213: 8148139956602385193
+    second: Scene_TowerDefense2_166
+  - first:
+      213: -2400835771647229960
+    second: Scene_TowerDefense2_167
+  - first:
+      213: 2840201729399370004
+    second: Scene_TowerDefense2_168
+  - first:
+      213: 687707095820390453
+    second: Scene_TowerDefense2_169
+  - first:
+      213: 8808473158631483204
+    second: Scene_TowerDefense2_170
+  - first:
+      213: 1402327389597052981
+    second: Scene_TowerDefense2_171
+  - first:
+      213: 4844371216549099892
+    second: Scene_TowerDefense2_172
+  - first:
+      213: 2132108287406635717
+    second: Scene_TowerDefense2_173
+  - first:
+      213: 5364651121339620358
+    second: Scene_TowerDefense2_174
+  - first:
+      213: -8641628841479733836
+    second: Scene_TowerDefense2_175
+  - first:
+      213: -5530933166393124406
+    second: Scene_TowerDefense2_176
+  - first:
+      213: -6732882605450812294
+    second: Scene_TowerDefense2_177
+  - first:
+      213: 6546442602930395727
+    second: Scene_TowerDefense2_178
+  - first:
+      213: -5477640181541017070
+    second: Scene_TowerDefense2_179
+  - first:
+      213: -6676593320895449496
+    second: Scene_TowerDefense2_180
+  - first:
+      213: 2008327130544666520
+    second: Scene_TowerDefense2_181
+  - first:
+      213: 1519340079840219999
+    second: Scene_TowerDefense2_182
+  - first:
+      213: 1886456864820510604
+    second: Scene_TowerDefense2_183
+  - first:
+      213: 8425055639166266940
+    second: Scene_TowerDefense2_184
+  - first:
+      213: 3566427538983736702
+    second: Scene_TowerDefense2_185
+  - first:
+      213: 511852685461802565
+    second: Scene_TowerDefense2_186
+  - first:
+      213: -3387113708237002985
+    second: Scene_TowerDefense2_187
+  - first:
+      213: 8679076063090723405
+    second: Scene_TowerDefense2_188
+  - first:
+      213: 7395107155899866465
+    second: Scene_TowerDefense2_189
+  - first:
+      213: 5335930996316015408
+    second: Scene_TowerDefense2_190
+  - first:
+      213: 6265582951311890093
+    second: Scene_TowerDefense2_191
+  - first:
+      213: -5159829431236088415
+    second: Scene_TowerDefense2_192
+  - first:
+      213: -6364801085391221317
+    second: Scene_TowerDefense2_193
+  - first:
+      213: -4667502932095707579
+    second: Scene_TowerDefense2_194
+  - first:
+      213: -8542783507118762062
+    second: Scene_TowerDefense2_195
+  - first:
+      213: -3203003061569835515
+    second: Scene_TowerDefense2_196
+  - first:
+      213: 7702294657587207918
+    second: Scene_TowerDefense2_197
+  - first:
+      213: 5250205196244611440
+    second: Scene_TowerDefense2_198
+  - first:
+      213: -2824818898505887087
+    second: Scene_TowerDefense2_199
+  - first:
+      213: -1480303318516193102
+    second: Scene_TowerDefense2_200
+  - first:
+      213: 7613949761371410669
+    second: Scene_TowerDefense2_201
+  - first:
+      213: 5227660939217642468
+    second: Scene_TowerDefense2_202
+  - first:
+      213: -2224555359763361611
+    second: Scene_TowerDefense2_203
+  - first:
+      213: 8368048803814725795
+    second: Scene_TowerDefense2_204
+  - first:
+      213: 4106350338556783463
+    second: Scene_TowerDefense2_205
+  - first:
+      213: -245152059216045446
+    second: Scene_TowerDefense2_206
+  - first:
+      213: -3105333079990153063
+    second: Scene_TowerDefense2_207
+  - first:
+      213: -6942680975370262176
+    second: Scene_TowerDefense2_208
+  - first:
+      213: 2075942303299240929
+    second: Scene_TowerDefense2_209
+  - first:
+      213: -1025477787415854578
+    second: Scene_TowerDefense2_210
+  - first:
+      213: 2444926294150159568
+    second: Scene_TowerDefense2_211
+  - first:
+      213: 780666785399713157
+    second: Scene_TowerDefense2_212
+  - first:
+      213: 1459780196496035450
+    second: Scene_TowerDefense2_213
+  - first:
+      213: 7480928477077107907
+    second: Scene_TowerDefense2_214
+  - first:
+      213: -7595278916160691083
+    second: Scene_TowerDefense2_215
+  - first:
+      213: 1141423806445267011
+    second: Scene_TowerDefense2_216
+  - first:
+      213: 4843193331860929445
+    second: Scene_TowerDefense2_217
+  - first:
+      213: -8135623429778508232
+    second: Scene_TowerDefense2_218
+  - first:
+      213: 3466049856691398989
+    second: Scene_TowerDefense2_219
+  - first:
+      213: 6163279086149309299
+    second: Scene_TowerDefense2_220
+  - first:
+      213: 909125273649084260
+    second: Scene_TowerDefense2_221
+  - first:
+      213: 2598262249158255436
+    second: Scene_TowerDefense2_222
+  - first:
+      213: 979749549675335208
+    second: Scene_TowerDefense2_223
+  - first:
+      213: 7896338530874309954
+    second: Scene_TowerDefense2_224
+  - first:
+      213: 312032239514205693
+    second: Scene_TowerDefense2_225
+  - first:
+      213: -6859875460293989420
+    second: Scene_TowerDefense2_226
+  - first:
+      213: -4725321046497170238
+    second: Scene_TowerDefense2_227
+  - first:
+      213: -6510286226283869833
+    second: Scene_TowerDefense2_228
+  - first:
+      213: -3922852077838018273
+    second: Scene_TowerDefense2_229
+  - first:
+      213: -2531915194470543462
+    second: Scene_TowerDefense2_230
+  - first:
+      213: -7447329416314035408
+    second: Scene_TowerDefense2_231
+  - first:
+      213: 7334761568264883110
+    second: Scene_TowerDefense2_232
+  - first:
+      213: -8793934128269972818
+    second: Scene_TowerDefense2_233
+  - first:
+      213: -7663192943500786394
+    second: Scene_TowerDefense2_234
+  - first:
+      213: 496877750449211222
+    second: Scene_TowerDefense2_235
+  - first:
+      213: 2105584426945250220
+    second: Scene_TowerDefense2_236
+  - first:
+      213: 6166478770690567598
+    second: Scene_TowerDefense2_237
+  - first:
+      213: -204340998962705829
+    second: Scene_TowerDefense2_238
+  - first:
+      213: -8071845960939984993
+    second: Scene_TowerDefense2_239
+  - first:
+      213: 1796759245132818263
+    second: Scene_TowerDefense2_240
+  - first:
+      213: -2187765625265956063
+    second: Scene_TowerDefense2_241
+  - first:
+      213: -5151847475263343977
+    second: Scene_TowerDefense2_242
+  - first:
+      213: -5165605609746243040
+    second: Scene_TowerDefense2_243
+  - first:
+      213: 2599846857843403807
+    second: Scene_TowerDefense2_244
+  - first:
+      213: 1313614109145548825
+    second: Scene_TowerDefense2_245
+  - first:
+      213: 3440061735039437132
+    second: Scene_TowerDefense2_246
+  - first:
+      213: -1761130952589958377
+    second: Scene_TowerDefense2_247
+  - first:
+      213: 2882709095760393114
+    second: Scene_TowerDefense2_248
+  - first:
+      213: 7447363341506196025
+    second: Scene_TowerDefense2_249
+  - first:
+      213: 2283405599946005083
+    second: Scene_TowerDefense2_250
+  - first:
+      213: -3524848975451968987
+    second: Scene_TowerDefense2_251
+  - first:
+      213: -5091340203326202004
+    second: Scene_TowerDefense2_252
+  - first:
+      213: -7245617265076990100
+    second: Scene_TowerDefense2_253
+  - first:
+      213: 4989607026019277589
+    second: Scene_TowerDefense2_254
+  - first:
+      213: -7448056546174287195
+    second: Scene_TowerDefense2_255
+  - first:
+      213: 5033787850740296641
+    second: Scene_TowerDefense2_256
+  - first:
+      213: 4060125681526463870
+    second: Scene_TowerDefense2_257
+  - first:
+      213: -1233057961288507009
+    second: Scene_TowerDefense2_258
+  - first:
+      213: -1667044646727034305
+    second: Scene_TowerDefense2_259
+  - first:
+      213: -4433312141111776612
+    second: Scene_TowerDefense2_260
+  - first:
+      213: -5741696723518787672
+    second: Scene_TowerDefense2_261
+  - first:
+      213: -5562928619302692529
+    second: Scene_TowerDefense2_262
+  - first:
+      213: 8495301402063346469
+    second: Scene_TowerDefense2_263
+  - first:
+      213: -7786973989856718241
+    second: Scene_TowerDefense2_264
+  - first:
+      213: -5066164958528967901
+    second: Scene_TowerDefense2_265
+  - first:
+      213: -5302492290909389209
+    second: Scene_TowerDefense2_266
+  - first:
+      213: -8813867861732268555
+    second: Scene_TowerDefense2_267
+  - first:
+      213: 481514396275271496
+    second: Scene_TowerDefense2_268
+  - first:
+      213: -6722919711309854146
+    second: Scene_TowerDefense2_269
+  - first:
+      213: -8916830168338302395
+    second: Scene_TowerDefense2_270
+  - first:
+      213: 3010934670964134779
+    second: Scene_TowerDefense2_271
+  - first:
+      213: 2998137440351702305
+    second: Scene_TowerDefense2_272
+  - first:
+      213: -4299679612231401059
+    second: Scene_TowerDefense2_273
+  - first:
+      213: 6632422513998499260
+    second: Scene_TowerDefense2_274
+  - first:
+      213: -6951558926711316089
+    second: Scene_TowerDefense2_275
+  - first:
+      213: -6327980201670089627
+    second: Scene_TowerDefense2_276
+  - first:
+      213: -5945913792948946439
+    second: Scene_TowerDefense2_277
+  - first:
+      213: 653586549645047898
+    second: Scene_TowerDefense2_278
+  - first:
+      213: -177633070142247204
+    second: Scene_TowerDefense2_279
+  - first:
+      213: 6679449378603244246
+    second: Scene_TowerDefense2_280
+  - first:
+      213: 4979159279863571244
+    second: Scene_TowerDefense2_281
+  - first:
+      213: -2300432550154974854
+    second: Scene_TowerDefense2_282
+  - first:
+      213: -753620398984507136
+    second: Scene_TowerDefense2_283
+  - first:
+      213: -4520243861458271383
+    second: Scene_TowerDefense2_284
+  - first:
+      213: 575648183395186994
+    second: Scene_TowerDefense2_285
+  - first:
+      213: -1573318578355645790
+    second: Scene_TowerDefense2_286
+  - first:
+      213: 8948153700927052350
+    second: Scene_TowerDefense2_287
+  - first:
+      213: -6548862884863677599
+    second: Scene_TowerDefense2_288
+  - first:
+      213: -6384497811988774043
+    second: Scene_TowerDefense2_289
+  - first:
+      213: -3266147850400366881
+    second: Scene_TowerDefense2_290
+  - first:
+      213: 5502990936045169813
+    second: Scene_TowerDefense2_291
+  - first:
+      213: 1005937783593046681
+    second: Scene_TowerDefense2_292
+  - first:
+      213: 318506672283709687
+    second: Scene_TowerDefense2_293
+  - first:
+      213: 4033348675998803289
+    second: Scene_TowerDefense2_294
+  - first:
+      213: -746510130105153686
+    second: Scene_TowerDefense2_295
+  - first:
+      213: 8339147386728803971
+    second: Scene_TowerDefense2_296
+  - first:
+      213: -243290259066124116
+    second: Scene_TowerDefense2_297
+  - first:
+      213: 6129410079974916718
+    second: Scene_TowerDefense2_298
+  - first:
+      213: -1261431535490914958
+    second: Scene_TowerDefense2_299
+  - first:
+      213: -4809777563006362671
+    second: Scene_TowerDefense2_300
+  - first:
+      213: 2226566939562643459
+    second: Scene_TowerDefense2_301
+  - first:
+      213: 4716299510338838908
+    second: Scene_TowerDefense2_302
+  - first:
+      213: 5467251242937684781
+    second: Scene_TowerDefense2_303
+  - first:
+      213: -7074721926704168471
+    second: Scene_TowerDefense2_304
+  - first:
+      213: -4348837573137744838
+    second: Scene_TowerDefense2_305
+  - first:
+      213: -8668214800695581857
+    second: Scene_TowerDefense2_306
+  - first:
+      213: 1173512508356035286
+    second: Scene_TowerDefense2_307
+  - first:
+      213: -513082383754532004
+    second: Scene_TowerDefense2_308
+  - first:
+      213: -663441456928618350
+    second: Scene_TowerDefense2_309
+  - first:
+      213: -4343535440870598343
+    second: Scene_TowerDefense2_310
+  - first:
+      213: 3374909824174979886
+    second: Scene_TowerDefense2_311
+  - first:
+      213: -1472884985127724644
+    second: Scene_TowerDefense2_312
+  - first:
+      213: 2132872277030042486
+    second: Scene_TowerDefense2_313
+  - first:
+      213: 8045421742613441055
+    second: Scene_TowerDefense2_314
+  - first:
+      213: -5810370480177877825
+    second: Scene_TowerDefense2_315
+  - first:
+      213: -3225889619261992939
+    second: Scene_TowerDefense2_316
+  - first:
+      213: -3384173746297509182
+    second: Scene_TowerDefense2_317
+  - first:
+      213: -4069656890781806202
+    second: Scene_TowerDefense2_318
+  - first:
+      213: 8087640331552551593
+    second: Scene_TowerDefense2_319
+  - first:
+      213: -4137910138604406746
+    second: Scene_TowerDefense2_320
+  - first:
+      213: -9207808490899625172
+    second: Scene_TowerDefense2_321
+  - first:
+      213: -3350732300725537533
+    second: Scene_TowerDefense2_322
+  - first:
+      213: 7625623383003367817
+    second: Scene_TowerDefense2_323
+  - first:
+      213: -5360134635883893292
+    second: Scene_TowerDefense2_324
+  - first:
+      213: -146923228177366509
+    second: Scene_TowerDefense2_325
+  - first:
+      213: -2840663730078947559
+    second: Scene_TowerDefense2_326
+  - first:
+      213: 2623437851292913081
+    second: Scene_TowerDefense2_327
+  - first:
+      213: -3205717059577319624
+    second: Scene_TowerDefense2_328
+  - first:
+      213: -1152498015257542230
+    second: Scene_TowerDefense2_329
+  - first:
+      213: -39550583574236183
+    second: Scene_TowerDefense2_330
+  - first:
+      213: 4566391633957873601
+    second: Scene_TowerDefense2_331
+  - first:
+      213: 6712059933148879617
+    second: Scene_TowerDefense2_332
+  - first:
+      213: -1604859835475825443
+    second: Scene_TowerDefense2_333
+  - first:
+      213: -2509573765311797711
+    second: Scene_TowerDefense2_334
+  - first:
+      213: 5770681351082508722
+    second: Scene_TowerDefense2_335
+  - first:
+      213: -3137999843020366356
+    second: Scene_TowerDefense2_336
+  - first:
+      213: -3211032203976492630
+    second: Scene_TowerDefense2_337
+  - first:
+      213: -7914277616834323126
+    second: Scene_TowerDefense2_338
+  - first:
+      213: 5679227008574609905
+    second: Scene_TowerDefense2_339
+  - first:
+      213: 4521779733728071263
+    second: Scene_TowerDefense2_340
+  - first:
+      213: -7804302064621406372
+    second: Scene_TowerDefense2_341
+  - first:
+      213: -5842455660927437225
+    second: Scene_TowerDefense2_342
+  - first:
+      213: 3207844120320693082
+    second: Scene_TowerDefense2_343
+  - first:
+      213: -442739216947206791
+    second: Scene_TowerDefense2_344
+  - first:
+      213: -7690187585024482356
+    second: Scene_TowerDefense2_345
+  - first:
+      213: 4327007765245504332
+    second: Scene_TowerDefense2_346
+  - first:
+      213: -3435703008599484268
+    second: Scene_TowerDefense2_347
+  - first:
+      213: 2887697989168412321
+    second: Scene_TowerDefense2_348
+  - first:
+      213: -8743867595880951820
+    second: Scene_TowerDefense2_349
+  - first:
+      213: -1781664247146016010
+    second: Scene_TowerDefense2_350
+  - first:
+      213: -3336244558245763705
+    second: Scene_TowerDefense2_351
+  - first:
+      213: -4346945840848478984
+    second: Scene_TowerDefense2_352
+  - first:
+      213: -7306242548161437669
+    second: Scene_TowerDefense2_353
+  - first:
+      213: -2057934548856888115
+    second: Scene_TowerDefense2_354
+  - first:
+      213: -6956298278127012128
+    second: Scene_TowerDefense2_355
+  - first:
+      213: -1865719467824823795
+    second: Scene_TowerDefense2_356
+  - first:
+      213: 4171621589983451386
+    second: Scene_TowerDefense2_357
+  - first:
+      213: 9088524275729750140
+    second: Scene_TowerDefense2_358
+  - first:
+      213: 9003452808533052172
+    second: Scene_TowerDefense2_359
+  - first:
+      213: -2191861952444517886
+    second: Scene_TowerDefense2_360
+  - first:
+      213: -7740844467647623088
+    second: Scene_TowerDefense2_361
+  - first:
+      213: 3118231655108964492
+    second: Scene_TowerDefense2_362
+  - first:
+      213: -2493353907212549407
+    second: Scene_TowerDefense2_363
+  - first:
+      213: -778034002836353009
+    second: Scene_TowerDefense2_364
+  - first:
+      213: 1933775451139748676
+    second: Scene_TowerDefense2_365
+  - first:
+      213: -7945040868266045907
+    second: Scene_TowerDefense2_366
+  - first:
+      213: 181190154093389597
+    second: Scene_TowerDefense2_367
+  - first:
+      213: 3533902577553428633
+    second: Scene_TowerDefense2_368
+  - first:
+      213: -8014296201422867415
+    second: Scene_TowerDefense2_369
+  - first:
+      213: -2850138370831467924
+    second: Scene_TowerDefense2_370
+  - first:
+      213: -504641185855488112
+    second: Scene_TowerDefense2_371
+  - first:
+      213: -7928885723806807791
+    second: Scene_TowerDefense2_372
+  - first:
+      213: 1830360223856337477
+    second: Scene_TowerDefense2_373
+  - first:
+      213: 1851539775605736213
+    second: Scene_TowerDefense2_374
+  - first:
+      213: -854333742254561215
+    second: Scene_TowerDefense2_375
+  - first:
+      213: -8890215612309023297
+    second: Scene_TowerDefense2_376
+  - first:
+      213: -7499279943957550457
+    second: Scene_TowerDefense2_377
+  - first:
+      213: -6140046034884593522
+    second: Scene_TowerDefense2_378
+  - first:
+      213: -5978455684480096477
+    second: Scene_TowerDefense2_379
+  - first:
+      213: 8069298138028019382
+    second: Scene_TowerDefense2_380
+  - first:
+      213: 7176953193097366131
+    second: Scene_TowerDefense2_381
+  - first:
+      213: 5843476371859213967
+    second: Scene_TowerDefense2_382
+  - first:
+      213: -3170413406137397756
+    second: Scene_TowerDefense2_383
+  - first:
+      213: 1106236062733230981
+    second: Scene_TowerDefense2_384
+  - first:
+      213: -2846975632846263251
+    second: Scene_TowerDefense2_385
+  - first:
+      213: -4177487319091915598
+    second: Scene_TowerDefense2_386
+  - first:
+      213: 4319803583916360839
+    second: Scene_TowerDefense2_387
+  - first:
+      213: -4740890905521332198
+    second: Scene_TowerDefense2_388
+  - first:
+      213: 4719063510753636410
+    second: Scene_TowerDefense2_389
+  - first:
+      213: 8365843586753468087
+    second: Scene_TowerDefense2_390
+  - first:
+      213: 4388308667974984775
+    second: Scene_TowerDefense2_391
+  - first:
+      213: -6280434447772207994
+    second: Scene_TowerDefense2_392
+  - first:
+      213: 5654626267673929594
+    second: Scene_TowerDefense2_393
+  - first:
+      213: -2376822439413490408
+    second: Scene_TowerDefense2_394
+  - first:
+      213: -5338226638701269744
+    second: Scene_TowerDefense2_395
+  - first:
+      213: 2686706608428321655
+    second: Scene_TowerDefense2_396
+  - first:
+      213: -6086022242983191513
+    second: Scene_TowerDefense2_397
+  - first:
+      213: 4349801926491423938
+    second: Scene_TowerDefense2_398
+  - first:
+      213: -2148130772260583567
+    second: Scene_TowerDefense2_399
+  - first:
+      213: 7504517150523366732
+    second: Scene_TowerDefense2_400
+  - first:
+      213: 2196776846004108558
+    second: Scene_TowerDefense2_401
+  - first:
+      213: -3908616140424143858
+    second: Scene_TowerDefense2_402
+  - first:
+      213: 7747324065699402923
+    second: Scene_TowerDefense2_403
+  - first:
+      213: -3135850472165732497
+    second: Scene_TowerDefense2_404
+  - first:
+      213: -2487843172212564575
+    second: Scene_TowerDefense2_405
+  - first:
+      213: -2085508863797074288
+    second: Scene_TowerDefense2_406
+  - first:
+      213: -8443498469557632379
+    second: Scene_TowerDefense2_0
+  - first:
+      213: -6274673966178448995
+    second: Sprits x2_0
+  - first:
+      213: -8216578811094062745
+    second: Sprits x2_1
+  - first:
+      213: 5439754306302186061
+    second: Sprits x2_2
+  - first:
+      213: -6205760989812289600
+    second: Sprits x2_3
+  - first:
+      213: 1202610914123527140
+    second: Sprits x2_4
+  - first:
+      213: 7767301856726987663
+    second: Sprits x2_5
+  - first:
+      213: 8907978981971781095
+    second: Sprits x2_6
+  - first:
+      213: -5243465985354214776
+    second: Sprits x2_7
+  - first:
+      213: 9192686094868394173
+    second: Sprits x2_8
+  - first:
+      213: -657060119918724543
+    second: Sprits x2_9
+  - first:
+      213: -7823289682237090427
+    second: Sprits x2_10
+  - first:
+      213: 8066048645239698776
+    second: Sprits x2_11
+  - first:
+      213: 4689517623698946830
+    second: Sprits x2_12
+  - first:
+      213: -5223438323671818568
+    second: Sprits x2_13
+  - first:
+      213: -8582567779220468934
+    second: Sprits x2_14
+  - first:
+      213: 4353778653574848694
+    second: Sprits x2_15
+  - first:
+      213: -4905596625678937128
+    second: Sprits x2_16
+  - first:
+      213: 6270671980977783712
+    second: Sprits x2_17
+  - first:
+      213: 2175722188979171185
+    second: Sprits x2_18
+  - first:
+      213: -9220354812919408051
+    second: Sprits x2_19
+  - first:
+      213: 5753117295067334744
+    second: Sprits x2_20
+  - first:
+      213: -921838093547525275
+    second: Sprits x2_21
+  - first:
+      213: -839313599701986806
+    second: Sprits x2_22
+  - first:
+      213: 4355094718914745933
+    second: Sprits x2_23
+  - first:
+      213: -1737842692158350630
+    second: Sprits x2_24
+  - first:
+      213: -1277928933164422213
+    second: Sprits x2_25
+  - first:
+      213: -7396544700055821845
+    second: Sprits x2_26
+  - first:
+      213: -4764034454811311376
+    second: Sprits x2_27
+  - first:
+      213: -8804387796578581647
+    second: Sprits x2_28
+  - first:
+      213: -2208071454760052245
+    second: Sprits x2_29
+  - first:
+      213: 372024328406747939
+    second: Sprits x2_30
+  - first:
+      213: 1453224836216994810
+    second: Sprits x2_31
+  - first:
+      213: -500194624009048696
+    second: Sprits x2_32
+  - first:
+      213: -2304242872458790205
+    second: Sprits x2_33
+  - first:
+      213: -431567090887777655
+    second: Sprits x2_34
+  - first:
+      213: 2962492567269395168
+    second: Sprits x2_35
+  - first:
+      213: -4964484807919713842
+    second: Sprits x2_36
+  - first:
+      213: 1828534323114506110
+    second: Sprits x2_37
+  - first:
+      213: 5838047321540363024
+    second: Sprits x2_38
+  - first:
+      213: -8710180870454136081
+    second: Sprits x2_39
+  - first:
+      213: 4205846172902264788
+    second: Sprits x2_40
+  - first:
+      213: -6242231566547414133
+    second: Sprits x2_41
+  - first:
+      213: 7601241418281118729
+    second: Sprits x2_42
+  - first:
+      213: 8086484024198964699
+    second: Sprits x2_43
+  - first:
+      213: -5975113656649478243
+    second: Sprits x2_44
+  - first:
+      213: -646747286610838377
+    second: Sprits x2_45
+  - first:
+      213: 6553333878753056460
+    second: Sprits x2_46
+  - first:
+      213: -3770518641204609848
+    second: Sprits x2_47
+  - first:
+      213: -8373769821591662820
+    second: Sprits x2_48
+  - first:
+      213: -1257864133628010460
+    second: Sprits x2_49
+  - first:
+      213: -1633984910079410222
+    second: Sprits x2_50
+  - first:
+      213: -5292480117125787252
+    second: Sprits x2_51
+  - first:
+      213: 4197412551631148155
+    second: Sprits x2_52
+  - first:
+      213: -2260354251908577821
+    second: Sprits x2_53
+  - first:
+      213: -7069055655700333655
+    second: Sprits x2_54
+  - first:
+      213: 5571538158206144350
+    second: Sprits x2_55
+  - first:
+      213: -6655937806287869179
+    second: Sprits x2_56
+  - first:
+      213: 8877601799103271624
+    second: Sprits x2_57
+  - first:
+      213: -783051158079594370
+    second: Sprits x2_58
+  - first:
+      213: 6843492943192966398
+    second: Sprits x2_59
+  - first:
+      213: 1673237087755195672
+    second: Sprits x2_60
+  - first:
+      213: -2907602456533530058
+    second: Sprits x2_61
+  - first:
+      213: -2800017951342768777
+    second: Sprits x2_62
+  - first:
+      213: -7753468737905561979
+    second: Sprits x2_63
+  - first:
+      213: -5050413690524035933
+    second: Sprits x2_64
+  - first:
+      213: -8934661324365127429
+    second: Sprits x2_65
+  - first:
+      213: 4470916548644095139
+    second: Sprits x2_66
+  - first:
+      213: -5305538994069932112
+    second: Sprits x2_67
+  - first:
+      213: -7977492505155661574
+    second: Sprits x2_68
+  - first:
+      213: -8294931512314465716
+    second: Sprits x2_69
+  - first:
+      213: -7529009834498584587
+    second: Sprits x2_70
+  - first:
+      213: -2104476156530473189
+    second: Sprits x2_71
+  - first:
+      213: 5332218066453521667
+    second: Sprits x2_72
+  - first:
+      213: 8973557746361371753
+    second: Sprits x2_73
+  - first:
+      213: -1427076047993863411
+    second: Sprits x2_74
+  - first:
+      213: -8558413046432534400
+    second: Sprits x2_75
+  - first:
+      213: 4007825488069637973
+    second: Sprits x2_76
+  - first:
+      213: -9035142461215801654
+    second: Sprits x2_77
+  - first:
+      213: 3185139581877704682
+    second: Sprits x2_78
+  - first:
+      213: 1094671737268431582
+    second: Sprits x2_79
+  - first:
+      213: 1200703183026094765
+    second: Sprits x2_80
+  - first:
+      213: 5883410527146703384
+    second: Sprits x2_81
+  - first:
+      213: 773075043597342193
+    second: Sprits x2_82
+  - first:
+      213: -1184353522006687484
+    second: Sprits x2_83
+  - first:
+      213: -1421057964959867220
+    second: Sprits x2_84
+  - first:
+      213: 6362026610926918422
+    second: Sprits x2_85
+  - first:
+      213: 8457426416407597954
+    second: Sprits x2_86
+  - first:
+      213: 7307541840762849702
+    second: Sprits x2_87
+  - first:
+      213: 5741971977346221113
+    second: Sprits x2_88
+  - first:
+      213: 5084513270629270747
+    second: Sprits x2_89
+  - first:
+      213: -1764897353716682389
+    second: Sprits x2_90
+  - first:
+      213: 1582862289082021385
+    second: Sprits x2_91
+  - first:
+      213: 8774422978248886659
+    second: Sprits x2_92
+  - first:
+      213: -2569196330572173345
+    second: Sprits x2_93
+  - first:
+      213: 5690346431486290246
+    second: Sprits x2_94
+  - first:
+      213: 4443468585073354135
+    second: Sprits x2_95
+  - first:
+      213: -6324336469707634580
+    second: Sprits x2_96
+  - first:
+      213: -9198896366336451774
+    second: Sprits x2_97
+  - first:
+      213: -3012437697488480131
+    second: Sprits x2_98
+  - first:
+      213: 1012843820438096251
+    second: Sprits x2_99
+  - first:
+      213: 6286594931409283561
+    second: Sprits x2_100
+  - first:
+      213: -5397564992746745151
+    second: Sprits x2_101
+  - first:
+      213: -5930748432367572257
+    second: Sprits x2_102
+  - first:
+      213: 2561564811593399135
+    second: Sprits x2_103
+  - first:
+      213: 1401715069656500598
+    second: Sprits x2_104
+  - first:
+      213: -1349245469779808824
+    second: Sprits x2_105
+  - first:
+      213: 5317245800788543406
+    second: Sprits x2_106
+  - first:
+      213: 5661610680763526222
+    second: Sprits x2_107
+  - first:
+      213: 197439280094852832
+    second: Sprits x2_108
+  - first:
+      213: 1900191934591264943
+    second: Sprits x2_109
+  - first:
+      213: -1816518021766226821
+    second: Sprits x2_110
+  - first:
+      213: -8325981919604501591
+    second: Sprits x2_111
+  - first:
+      213: -7809018978100291024
+    second: Sprits x2_112
+  - first:
+      213: 4121459112942393151
+    second: Sprits x2_113
+  - first:
+      213: 3345080656486341908
+    second: Sprits x2_114
+  - first:
+      213: 2139394863303826956
+    second: Sprits x2_115
+  - first:
+      213: -8643753887533388527
+    second: Sprits x2_116
+  - first:
+      213: -5054410011531387045
+    second: Sprits x2_117
+  - first:
+      213: -7803340108661956837
+    second: Sprits x2_118
+  - first:
+      213: -8209945176807034913
+    second: Sprits x2_119
+  - first:
+      213: 6751877228932164263
+    second: Sprits x2_120
+  - first:
+      213: -402229990532409509
+    second: Sprits x2_121
+  - first:
+      213: 2776337851925520363
+    second: Sprits x2_122
+  - first:
+      213: -1181889152331992015
+    second: Sprits x2_123
+  - first:
+      213: -4078824079109883037
+    second: Sprits x2_124
+  - first:
+      213: -8931889890743037664
+    second: Sprits x2_125
+  - first:
+      213: -963177184615367248
+    second: Sprits x2_126
+  - first:
+      213: -3542418476283707147
+    second: Sprits x2_127
+  - first:
+      213: -5629835637422959386
+    second: Sprits x2_128
+  - first:
+      213: -975086078427426005
+    second: Sprits x2_129
+  - first:
+      213: 2954873065269069814
+    second: Sprits x2_130
+  - first:
+      213: 6294900257625746802
+    second: Sprits x2_131
+  - first:
+      213: 1605110526528157291
+    second: Sprits x2_132
+  - first:
+      213: 1491581182160245340
+    second: Sprits x2_133
+  - first:
+      213: -5518646624103994171
+    second: Sprits x2_134
+  - first:
+      213: -1556026960868460258
+    second: Sprits x2_135
+  - first:
+      213: 3561054132454182029
+    second: Sprits x2_136
+  - first:
+      213: -7689378411442090989
+    second: Sprits x2_137
+  - first:
+      213: -194401297881609448
+    second: Sprits x2_138
+  - first:
+      213: 218571323426920924
+    second: Sprits x2_139
+  - first:
+      213: 405799345917276347
+    second: Sprits x2_140
+  - first:
+      213: -3511385744245213904
+    second: Sprits x2_141
+  - first:
+      213: -1810905269961409070
+    second: Sprits x2_142
+  - first:
+      213: -8520454695843266716
+    second: Sprits x2_143
+  - first:
+      213: -3504027433445335732
+    second: Sprits x2_144
+  - first:
+      213: -6657596201830320980
+    second: Sprits x2_145
+  - first:
+      213: -8179890306586894662
+    second: Sprits x2_146
+  - first:
+      213: -2120533016133026577
+    second: Sprits x2_147
+  - first:
+      213: -3270974819270802743
+    second: Sprits x2_148
+  - first:
+      213: -3574953651006908548
+    second: Sprits x2_149
+  - first:
+      213: -4284136298738447053
+    second: Sprits x2_150
+  - first:
+      213: 707425288217437819
+    second: Sprits x2_151
+  - first:
+      213: -1162954661496606279
+    second: Sprits x2_152
+  - first:
+      213: 3925269582366268288
+    second: Sprits x2_153
+  - first:
+      213: -8483443943131145966
+    second: Sprits x2_154
+  - first:
+      213: -4682979801248715773
+    second: Sprits x2_155
+  - first:
+      213: 4160234212019907316
+    second: Sprits x2_156
+  - first:
+      213: 1376282883517967086
+    second: Sprits x2_157
+  - first:
+      213: -1647218000625135168
+    second: Sprits x2_158
+  - first:
+      213: -6127122128106329324
+    second: Sprits x2_159
+  - first:
+      213: -2674277629129712991
+    second: Sprits x2_160
+  - first:
+      213: -7349053180347770675
+    second: Sprits x2_161
+  - first:
+      213: 514285825320617285
+    second: Sprits x2_162
+  - first:
+      213: 4401295856612452618
+    second: Sprits x2_163
+  - first:
+      213: 1370592271491964715
+    second: Sprits x2_164
+  - first:
+      213: -9070113941878714980
+    second: Sprits x2_165
+  - first:
+      213: 5623213783852722741
+    second: Sprits x2_166
+  - first:
+      213: 4822128975501335282
+    second: Sprits x2_167
+  - first:
+      213: 5652476651612759847
+    second: Sprits x2_168
+  - first:
+      213: -2964989654265457566
+    second: Sprits x2_169
+  - first:
+      213: 6784294909441027322
+    second: Sprits x2_170
+  - first:
+      213: 7043412251899862528
+    second: Sprits x2_171
+  - first:
+      213: 2799674054906075838
+    second: Sprits x2_172
+  - first:
+      213: -22627795706461314
+    second: Sprits x2_173
+  - first:
+      213: -1916334897049236524
+    second: Sprits x2_174
+  - first:
+      213: -8726877272950653300
+    second: Sprits x2_175
+  - first:
+      213: -1618290125166144818
+    second: Sprits x2_176
+  - first:
+      213: -7698435470556171199
+    second: Sprits x2_177
+  - first:
+      213: 8989720780795972599
+    second: Sprits x2_178
+  - first:
+      213: -315853238278927120
+    second: Sprits x2_179
+  - first:
+      213: -1251861861089220
+    second: Sprits x2_180
+  - first:
+      213: -8674169317253208173
+    second: Sprits x2_181
+  - first:
+      213: -8828895785359783785
+    second: Sprits x2_182
+  - first:
+      213: 632094657206576428
+    second: Sprits x2_183
+  - first:
+      213: -3286068877295211823
+    second: Sprits x2_184
+  - first:
+      213: 6244637040009254435
+    second: Sprits x2_185
+  - first:
+      213: -6953083912650947928
+    second: Sprits x2_186
+  - first:
+      213: 1695355574809455633
+    second: Sprits x2_187
+  - first:
+      213: 4954210770692961006
+    second: Sprits x2_188
+  - first:
+      213: 2290906165729162299
+    second: Sprits x2_189
+  - first:
+      213: 8669612097288163193
+    second: Sprits x2_190
+  - first:
+      213: -416948726392624475
+    second: Sprits x2_191
+  - first:
+      213: 356599257091590753
+    second: Sprits x2_192
+  - first:
+      213: 8270477874603418750
+    second: Sprits x2_193
+  - first:
+      213: -1586266491580325190
+    second: Sprits x2_194
+  - first:
+      213: -4184893927287735898
+    second: Sprits x2_195
+  - first:
+      213: -2088696631552187697
+    second: Sprits x2_196
+  - first:
+      213: 1937043507655820468
+    second: Sprits x2_197
+  - first:
+      213: -8939470874574293021
+    second: Sprits x2_198
+  - first:
+      213: -4197165166045799855
+    second: Sprits x2_199
+  - first:
+      213: -1551509605657307208
+    second: Sprits x2_200
+  - first:
+      213: -8840641326807778147
+    second: Sprits x2_201
+  - first:
+      213: -2647380177133540579
+    second: Sprits x2_202
+  - first:
+      213: -2845167612597930929
+    second: Sprits x2_203
+  - first:
+      213: -2947722652729714196
+    second: Sprits x2_204
+  - first:
+      213: -2551331531005875553
+    second: Sprits x2_205
+  - first:
+      213: 7365419555397810672
+    second: Sprits x2_206
+  - first:
+      213: -285010991275226570
+    second: Sprits x2_207
+  - first:
+      213: 409185654645322457
+    second: Sprits x2_208
+  - first:
+      213: 114951743585358639
+    second: Sprits x2_209
+  - first:
+      213: 4017997383118937748
+    second: Sprits x2_210
+  - first:
+      213: -6693733898667069084
+    second: Sprits x2_211
+  - first:
+      213: 7614140485783090534
+    second: Sprits x2_212
+  - first:
+      213: 3843123795411315442
+    second: Sprits x2_213
+  - first:
+      213: -5371602330604966940
+    second: Sprits x2_214
+  - first:
+      213: 3904255282361709411
+    second: Sprits x2_215
+  - first:
+      213: 4161976097837776916
+    second: Sprits x2_216
+  - first:
+      213: -5363689464581994699
+    second: Sprits x2_217
+  - first:
+      213: -7577391636071401751
+    second: Sprits x2_218
+  - first:
+      213: -1875210241187163606
+    second: Sprits x2_219
+  - first:
+      213: -1967294963976556764
+    second: Sprits x2_220
+  - first:
+      213: 9154980031743389721
+    second: Sprits x2_221
+  - first:
+      213: -2431048747423727480
+    second: Sprits x2_222
+  - first:
+      213: 6225449930724748044
+    second: Sprits x2_223
+  - first:
+      213: -7944801769324982060
+    second: Sprits x2_224
+  - first:
+      213: 3760230778098950014
+    second: Sprits x2_225
+  - first:
+      213: 2573324104672915062
+    second: Sprits x2_226
+  - first:
+      213: 5338739623117022912
+    second: Sprits x2_227
+  - first:
+      213: 7738658442566309718
+    second: Sprits x2_228
+  - first:
+      213: 8202396841059255416
+    second: Sprits x2_229
+  - first:
+      213: -4622786622437353246
+    second: Sprits x2_230
+  - first:
+      213: -9051784406454443356
+    second: Sprits x2_231
+  - first:
+      213: -7114125293772794484
+    second: Sprits x2_232
+  - first:
+      213: -6439988026284637400
+    second: Sprits x2_233
+  - first:
+      213: -2658778293063369930
+    second: Sprits x2_234
+  - first:
+      213: 1258953968854183983
+    second: Sprits x2_235
+  - first:
+      213: 7689179358094804778
+    second: Sprits x2_236
+  - first:
+      213: 5367841619815378128
+    second: Sprits x2_237
+  - first:
+      213: 5077472282717235851
+    second: Sprits x2_238
+  - first:
+      213: -7280679172409029618
+    second: Sprits x2_239
+  - first:
+      213: -7792251597155588174
+    second: Sprits x2_240
+  - first:
+      213: -4106241399798457278
+    second: Sprits x2_241
+  - first:
+      213: 4189600483057168905
+    second: Sprits x2_242
+  - first:
+      213: -14650082921502595
+    second: Sprits x2_243
+  - first:
+      213: 2958137479469752785
+    second: Sprits x2_244
+  - first:
+      213: -1933949604065973158
+    second: Sprits x2_245
+  - first:
+      213: 4435010291616758898
+    second: Sprits x2_246
+  - first:
+      213: -1203519580538787141
+    second: Sprits x2_247
+  - first:
+      213: -4743431354420058598
+    second: Sprits x2_248
+  - first:
+      213: -8852294755400077478
+    second: Sprits x2_249
+  - first:
+      213: -5305099164000116585
+    second: Sprits x2_250
+  - first:
+      213: -1931045351573128864
+    second: Sprits x2_251
+  - first:
+      213: 7198334820076973652
+    second: Sprits x2_252
+  - first:
+      213: 1791400846993373252
+    second: Sprits x2_253
+  - first:
+      213: 5784126921279070500
+    second: Sprits x2_254
+  - first:
+      213: 7399927683003631225
+    second: Sprits x2_255
+  - first:
+      213: 54661861576384824
+    second: Sprits x2_256
+  - first:
+      213: -7738356174277224536
+    second: Sprits x2_257
+  - first:
+      213: -8691156254797761564
+    second: Sprits x2_258
+  - first:
+      213: -5700676034978495414
+    second: Sprits x2_259
+  - first:
+      213: -4693809004033956846
+    second: Sprits x2_260
+  - first:
+      213: -2443159555463531553
+    second: Sprits x2_261
+  - first:
+      213: 4169960115292050385
+    second: Sprits x2_262
+  - first:
+      213: 5978301010169636667
+    second: Sprits x2_263
+  - first:
+      213: 7528417181773416743
+    second: Sprits x2_264
+  - first:
+      213: -4490057658398762778
+    second: Sprits x2_265
+  - first:
+      213: -7582333671206900445
+    second: Sprits x2_266
+  - first:
+      213: -3003555793988225430
+    second: Sprits x2_267
+  - first:
+      213: 9114177630519459105
+    second: Sprits x2_268
+  - first:
+      213: -5122556355432703085
+    second: Sprits x2_269
+  - first:
+      213: -1414270469681391390
+    second: Sprits x2_270
+  - first:
+      213: -427967968956668864
+    second: Sprits x2_271
+  - first:
+      213: 7234832857735926732
+    second: Sprits x2_272
+  - first:
+      213: -972366758214339687
+    second: Sprits x2_273
+  - first:
+      213: -3837403977572903623
+    second: Sprits x2_274
+  - first:
+      213: -874409770945362569
+    second: Sprits x2_275
+  - first:
+      213: 7725634074147675784
+    second: Sprits x2_276
+  - first:
+      213: -7730517743457477487
+    second: Sprits x2_277
+  - first:
+      213: -875424712586067066
+    second: Sprits x2_278
+  - first:
+      213: 8480552444319613811
+    second: Sprits x2_279
+  - first:
+      213: -1472649291173658905
+    second: Sprits x2_280
+  - first:
+      213: 2317425877001422162
+    second: Sprits x2_281
+  - first:
+      213: -1610302812245630013
+    second: Sprits x2_282
+  - first:
+      213: 3246291386410559201
+    second: Sprits x2_283
+  - first:
+      213: 8119629824068816918
+    second: Sprits x2_284
+  - first:
+      213: 5034443434893499745
+    second: Sprits x2_285
+  - first:
+      213: -1719962200076429116
+    second: Sprits x2_286
+  - first:
+      213: -694335654783128898
+    second: Sprits x2_287
+  - first:
+      213: -7995774751852415261
+    second: Sprits x2_288
+  - first:
+      213: -7435494783651577138
+    second: Sprits x2_289
+  - first:
+      213: 1061345960575855001
+    second: Sprits x2_290
+  - first:
+      213: -9077988169658563317
+    second: Sprits x2_291
+  - first:
+      213: 4960031042287663550
+    second: Sprits x2_292
+  - first:
+      213: -7194445222405451672
+    second: Sprits x2_293
+  - first:
+      213: 7999828726563920398
+    second: Sprits x2_294
+  - first:
+      213: 5052002294547700550
+    second: Sprits x2_295
+  - first:
+      213: -525111717441953857
+    second: Sprits x2_296
+  - first:
+      213: -2915496180256270019
+    second: Sprits x2_297
+  - first:
+      213: 2137167204594782684
+    second: Sprits x2_298
+  - first:
+      213: -6751666760140091038
+    second: Sprits x2_299
+  - first:
+      213: 8957629147358545543
+    second: Sprits x2_300
+  - first:
+      213: -3390781350542742635
+    second: Sprits x2_301
+  - first:
+      213: -7649504767071164887
+    second: Sprits x2_302
+  - first:
+      213: 2366812366039489856
+    second: Sprits x2_303
+  - first:
+      213: 2540242107249520561
+    second: Sprits x2_304
+  - first:
+      213: -2044931725070929098
+    second: Sprits x2_305
+  - first:
+      213: -1711283617790032457
+    second: Sprits x2_306
+  - first:
+      213: 162900878156774768
+    second: Sprits x2_307
+  - first:
+      213: -5420826661695279401
+    second: Sprits x2_308
+  - first:
+      213: -4726706843109067104
+    second: Sprits x2_309
+  - first:
+      213: 4447226649613074305
+    second: Sprits x2_310
+  - first:
+      213: -833221659424974510
+    second: Sprits x2_311
+  - first:
+      213: 4455321406209927918
+    second: Sprits x2_312
+  - first:
+      213: -8463203918291948675
+    second: Sprits x2_313
+  - first:
+      213: 5534946225973877260
+    second: Sprits x2_314
+  - first:
+      213: 6612275596162659997
+    second: Sprits x2_315
+  - first:
+      213: 5055937667904098579
+    second: Sprits x2_316
+  - first:
+      213: -7289493461938393285
+    second: Sprits x2_317
+  - first:
+      213: 5063301053876366204
+    second: Sprits x2_318
+  - first:
+      213: 1843610047415594267
+    second: Sprits x2_319
+  - first:
+      213: -7230098275536868998
+    second: Sprits x2_320
+  - first:
+      213: -1030139380227782448
+    second: Sprits x2_321
+  - first:
+      213: -3012422686931786023
+    second: Sprits x2_322
+  - first:
+      213: 3418132937033151446
+    second: Sprits x2_323
+  - first:
+      213: 2401555089493335798
+    second: Sprits x2_324
+  - first:
+      213: 4720245909948238209
+    second: Sprits x2_325
+  - first:
+      213: -422123736105645364
+    second: Sprits x2_326
+  - first:
+      213: -6565721364695481130
+    second: Sprits x2_327
+  - first:
+      213: -523610595642480164
+    second: Sprits x2_328
+  - first:
+      213: 6308209486500028381
+    second: Sprits x2_329
+  - first:
+      213: -7970606726252259540
+    second: Sprits x2_330
+  - first:
+      213: -5700248374802621866
+    second: Sprits x2_331
+  - first:
+      213: 2907752638103486638
+    second: Sprits x2_332
+  - first:
+      213: 7047133060293576144
+    second: Sprits x2_333
+  - first:
+      213: -7529354420154065548
+    second: Sprits x2_334
+  - first:
+      213: -6377810138343403777
+    second: Sprits x2_335
+  - first:
+      213: 4191914911124326159
+    second: Sprits x2_336
+  - first:
+      213: 2756448978405135078
+    second: Sprits x2_337
+  - first:
+      213: 2048042602266771910
+    second: Sprits x2_338
+  - first:
+      213: 7116506715108664929
+    second: Sprits x2_339
+  - first:
+      213: 5943315098330177427
+    second: Sprits x2_340
+  - first:
+      213: 3508482936991796405
+    second: Sprits x2_341
+  - first:
+      213: -2113961867988412237
+    second: Sprits x2_342
+  - first:
+      213: 865379671449391025
+    second: Sprits x2_343
+  - first:
+      213: -894689087308964598
+    second: Sprits x2_344
+  - first:
+      213: -2812512790517707521
+    second: Sprits x2_345
+  - first:
+      213: 8517602153368461404
+    second: Sprits x2_346
+  - first:
+      213: -2590399860471556537
+    second: Sprits x2_347
+  - first:
+      213: -4600424820792014034
+    second: Sprits x2_348
+  - first:
+      213: -4682815109821997930
+    second: Sprits x2_349
+  - first:
+      213: -4968526567302648526
+    second: Sprits x2_350
+  - first:
+      213: 2289647063564237036
+    second: Sprits x2_351
+  - first:
+      213: -3095100336205761957
+    second: Sprits x2_352
+  - first:
+      213: -4274250685299118226
+    second: Sprits x2_353
+  - first:
+      213: -5957674027281366500
+    second: Sprits x2_354
+  - first:
+      213: 2144039372080954404
+    second: Sprits x2_355
+  - first:
+      213: 8200657693038852747
+    second: Sprits x2_356
+  - first:
+      213: 3273511243524162191
+    second: Sprits x2_357
+  - first:
+      213: -5280340952200106046
+    second: Sprits x2_358
+  - first:
+      213: 8620202507086723126
+    second: Sprits x2_359
+  - first:
+      213: 7163765713205670193
+    second: Sprits x2_360
+  - first:
+      213: 5255825756692420282
+    second: Sprits x2_361
+  - first:
+      213: -4167772474285833456
+    second: Sprits x2_362
+  - first:
+      213: -8644162935815743452
+    second: Sprits x2_363
+  - first:
+      213: 4693889546884550180
+    second: Sprits x2_364
+  - first:
+      213: 6575051785133020798
+    second: Sprits x2_365
+  - first:
+      213: -2257582948271365797
+    second: Sprits x2_366
+  - first:
+      213: -4954847918137662249
+    second: Sprits x2_367
+  - first:
+      213: -82828758287551513
+    second: Sprits x2_368
+  - first:
+      213: 2735598074845376586
+    second: Sprits x2_369
+  - first:
+      213: 1420260852565998150
+    second: Sprits x2_370
+  - first:
+      213: -308110802383622534
+    second: Sprits x2_371
+  - first:
+      213: 4538010190839008518
+    second: Sprits x2_372
+  - first:
+      213: 7393460336692104740
+    second: Sprits x2_373
+  - first:
+      213: -500102187931310489
+    second: Sprits x2_374
+  - first:
+      213: -98841865483861425
+    second: Sprits x2_375
+  - first:
+      213: -2505039722124012911
+    second: Sprits x2_376
+  - first:
+      213: -1830893493039790851
+    second: Sprits x2_377
+  - first:
+      213: -6555500050107484976
+    second: Sprits x2_378
+  - first:
+      213: -200625742983026358
+    second: Sprits x2_379
+  - first:
+      213: 735452147429116345
+    second: Sprits x2_380
+  - first:
+      213: 3317970632290922214
+    second: Sprits x2_381
+  - first:
+      213: -8882822498442032817
+    second: Sprits x2_382
+  - first:
+      213: 3878202612721481299
+    second: Sprits x2_383
+  - first:
+      213: 6352170512586995328
+    second: Sprits x2_384
+  - first:
+      213: 2691537361567619975
+    second: Sprits x2_385
+  - first:
+      213: -6584444204204451017
+    second: Sprits x2_386
+  - first:
+      213: 3370704601268379658
+    second: Sprits x2_387
+  - first:
+      213: -5017566988901139706
+    second: Sprits x2_388
+  - first:
+      213: 5957425181520097587
+    second: Sprits x2_389
+  - first:
+      213: -1252930718456398497
+    second: Sprits x2_390
+  - first:
+      213: -6190288159816688206
+    second: Sprits x2_391
+  - first:
+      213: -219055504502524744
+    second: Sprits x2_392
+  - first:
+      213: 5498416114082451271
+    second: Sprits x2_393
+  - first:
+      213: -2328869215223631595
+    second: Sprits x2_394
+  - first:
+      213: -5204472098994664298
+    second: Sprits x2_395
+  - first:
+      213: 4300337507083960947
+    second: Sprits x2_396
+  - first:
+      213: 6663627620204802712
+    second: Sprits x2_397
+  - first:
+      213: -5851828269533742555
+    second: Sprits x2_398
+  - first:
+      213: -1801744460299005861
+    second: Sprits x2_399
+  - first:
+      213: 5082500286982513456
+    second: Sprits x2_400
+  - first:
+      213: 2050872013322160163
+    second: Sprits x2_401
+  - first:
+      213: 8006823335216030844
+    second: Sprits x2_402
+  - first:
+      213: 3519357032496603926
+    second: Sprits x2_403
+  - first:
+      213: -5703788885930373733
+    second: Sprits x2_404
+  - first:
+      213: -5196269065457683978
+    second: Sprits x2_405
+  - first:
+      213: -3902890231358227228
+    second: Sprits x2_406
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_191
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da650bb6f72d3f650800000000000000
+      internalID: 6265582951311890093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_192
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad2191687a9468b0800000000000000
+      internalID: -5159829431236088415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_193
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd4c3f822faba7a0800000000000000
+      internalID: -6364801085391221317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_194
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546575010d2b93fb0800000000000000
+      internalID: -4667502932095707579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_195
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7de1179afe17980800000000000000
+      internalID: -8542783507118762062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_196
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e24ac8fa5ac83d0800000000000000
+      internalID: -3203003061569835515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_197
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeedfdcbe2c04ea60800000000000000
+      internalID: 7702294657587207918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_198
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071f1182fc97cd840800000000000000
+      internalID: 5250205196244611440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_199
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1921fb7ad2a3cc8d0800000000000000
+      internalID: -2824818898505887087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_200
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8a20c89f7e47be0800000000000000
+      internalID: -1480303318516193102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_201
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de09630b7fe2aa960800000000000000
+      internalID: 7613949761371410669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_202
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3a0484de16c8840800000000000000
+      internalID: 5227660939217642468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_203
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b01d1ebfaac021e0800000000000000
+      internalID: -2224555359763361611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_204
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 907
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8528e1d08412470800000000000000
+      internalID: 8368048803814725795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_205
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b6bf460efacf830800000000000000
+      internalID: 4106350338556783463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_206
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ad872408b099cf0800000000000000
+      internalID: -245152059216045446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_207
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990dae93404a7e4d0800000000000000
+      internalID: -3105333079990153063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_208
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0696132df64a6af90800000000000000
+      internalID: -6942680975370262176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_209
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e38b5aa68a3fcc10800000000000000
+      internalID: 2075942303299240929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_210
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e024604b265c4c1f0800000000000000
+      internalID: -1025477787415854578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_211
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc15d0c28f1ee120800000000000000
+      internalID: 2444926294150159568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_212
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d22bf1e4c75da00800000000000000
+      internalID: 780666785399713157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_213
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ecb4eba5e224410800000000000000
+      internalID: 1459780196496035450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_214
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4f84270d891d760800000000000000
+      internalID: 7480928477077107907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_215
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5746a383116289690800000000000000
+      internalID: -7595278916160691083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_216
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348285987e627df00800000000000000
+      internalID: 1141423806445267011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_217
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab7c1cccaa763340800000000000000
+      internalID: 4843193331860929445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_218
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836f4b15895781f80800000000000000
+      internalID: -8135623429778508232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_219
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 779
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4962e11bf1e91030800000000000000
+      internalID: 3466049856691398989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_220
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 779
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3731685acad588550800000000000000
+      internalID: 6163279086149309299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_221
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 779
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467fe20ae9cdd9c00800000000000000
+      internalID: 909125273649084260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_222
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 779
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43a26adfb1ee0420800000000000000
+      internalID: 2598262249158255436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_223
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 779
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e4f354605c89d00800000000000000
+      internalID: 979749549675335208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_224
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 779
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d3ef6ae0e659d60800000000000000
+      internalID: 7896338530874309954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_225
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 779
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdb6ba2baf845400800000000000000
+      internalID: 312032239514205693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_226
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 779
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbe1c13d93dcc0a0800000000000000
+      internalID: -6859875460293989420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_227
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 779
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccebd54b894c6eb0800000000000000
+      internalID: -4725321046497170238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_228
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 779
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7794b309b21d6a5a0800000000000000
+      internalID: -6510286226283869833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_229
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 779
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19df02c1da3f89c0800000000000000
+      internalID: -3922852077838018273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_230
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 779
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f4b289b84dcdcd0800000000000000
+      internalID: -2531915194470543462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_231
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 779
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033e84f7a55c5a890800000000000000
+      internalID: -7447329416314035408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_232
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 779
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab8d9cf8ce4ac560800000000000000
+      internalID: 7334761568264883110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_233
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 715
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaa84aa08ba5f580800000000000000
+      internalID: -8793934128269972818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_234
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 715
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6250b558e9ed6a590800000000000000
+      internalID: -7663192943500786394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_235
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 715
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65702547ea345e600800000000000000
+      internalID: 496877750449211222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_236
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 715
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca38aa461e9883d10800000000000000
+      internalID: 2105584426945250220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_237
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 715
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadaff145cbb39550800000000000000
+      internalID: 6166478770690567598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_238
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 715
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a87cfa1f80a2df0800000000000000
+      internalID: -204340998962705829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_239
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 715
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9720807dda0bff80800000000000000
+      internalID: -8071845960939984993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_240
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 715
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7576a09830f5fe810800000000000000
+      internalID: 1796759245132818263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_241
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 715
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b563e41ce73a1e0800000000000000
+      internalID: -2187765625265956063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_242
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 715
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7927fe35406f088b0800000000000000
+      internalID: -5151847475263343977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_243
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 715
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0226f4501151058b0800000000000000
+      internalID: -5165605609746243040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_244
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 715
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ceb2051f2841420800000000000000
+      internalID: 2599846857843403807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_245
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 715
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918cf8b8215ea3210800000000000000
+      internalID: 1313614109145548825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_246
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 715
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49807afbed8dbf20800000000000000
+      internalID: 3440061735039437132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_247
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 651
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7132eefbab43f87e0800000000000000
+      internalID: -1761130952589958377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_248
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 651
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93f59b36a0710820800000000000000
+      internalID: 2882709095760393114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_249
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 651
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9323eb350895a5760800000000000000
+      internalID: 7447363341506196025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_250
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 651
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a5bee8b4940bf10800000000000000
+      internalID: 2283405599946005083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_251
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 651
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a29434888351fc0800000000000000
+      internalID: -3524848975451968987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_252
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 651
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f93166f0de759b0800000000000000
+      internalID: -5091340203326202004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_253
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 651
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f06a08c75627b90800000000000000
+      internalID: -7245617265076990100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_254
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 651
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b1ca27725ae3540800000000000000
+      internalID: 4989607026019277589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_255
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 651
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a24242680033a890800000000000000
+      internalID: -7448056546174287195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_256
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 651
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb6d0e416b9bd540800000000000000
+      internalID: 5033787850740296641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_257
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 651
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d53debbc6785830800000000000000
+      internalID: 4060125681526463870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_258
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 651
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f716ee5315c43eee0800000000000000
+      internalID: -1233057961288507009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_259
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 651
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a5e17e9b77dd8e0800000000000000
+      internalID: -1667044646727034305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_260
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 651
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a2b9aa816b972c0800000000000000
+      internalID: -4433312141111776612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_261
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af63a230456150b0800000000000000
+      internalID: -5741696723518787672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_262
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49db97f4e18cc2b0800000000000000
+      internalID: -5562928619302692529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_263
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b1dd97d9f55e570800000000000000
+      internalID: 8495301402063346469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_264
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f525263d96c1fe390800000000000000
+      internalID: -7786973989856718241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_265
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b6959dfcd51b9b0800000000000000
+      internalID: -5066164958528967901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_266
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e3910fa53c966b0800000000000000
+      internalID: -5302492290909389209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_267
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5673ca0e9dea580800000000000000
+      internalID: -8813867861732268555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_268
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8476930daceaea600800000000000000
+      internalID: 481514396275271496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_269
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a87e1642463b2a0800000000000000
+      internalID: -6722919711309854146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_270
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a75bd843e014480800000000000000
+      internalID: -8916830168338302395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_271
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7399b0712df8c920800000000000000
+      internalID: 3010934670964134779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_272
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d46fffd168b9920800000000000000
+      internalID: 2998137440351702305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_273
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9145f06c287454c0800000000000000
+      internalID: -4299679612231401059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_274
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 587
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd0f2be2291b0c50800000000000000
+      internalID: 6632422513998499260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_276
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564efbd988f7e28a0800000000000000
+      internalID: -6327980201670089627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_277
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9be2a78eedb7da0800000000000000
+      internalID: -5945913792948946439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_278
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58f0990181021900800000000000000
+      internalID: 653586549645047898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_279
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde2fc1f9abe88df0800000000000000
+      internalID: -177633070142247204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_280
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da99d212db22bc50800000000000000
+      internalID: 6679449378603244246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_281
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23ab5cfbf6891540800000000000000
+      internalID: 4979159279863571244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_282
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79444aa8c83310e0800000000000000
+      internalID: -2300432550154974854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_283
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0015a0f6d3a9a85f0800000000000000
+      internalID: -753620398984507136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_284
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963c3a3482ed441c0800000000000000
+      internalID: -4520243861458271383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_285
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2397ede09fc1df700800000000000000
+      internalID: 575648183395186994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_286
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2d69ab6137a2ae0800000000000000
+      internalID: -1573318578355645790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_287
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a9a53b16a3e2c70800000000000000
+      internalID: 8948153700927052350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_288
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16be5f057e3cd15a0800000000000000
+      internalID: -6548862884863677599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_289
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 523
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56386270115b567a0800000000000000
+      internalID: -6384497811988774043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_290
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdefaf8b5df4ca2d0800000000000000
+      internalID: -3266147850400366881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_291
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59caa29a91d8e5c40800000000000000
+      internalID: 5502990936045169813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_292
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9921531a51fc5fd00800000000000000
+      internalID: 1005937783593046681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_293
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0ff0481209b6400800000000000000
+      internalID: 318506672283709687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_294
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9556330504559f730800000000000000
+      internalID: 4033348675998803289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_295
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a670ad9edfcd3a5f0800000000000000
+      internalID: -746510130105153686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_296
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ee8939d5a9ab370800000000000000
+      internalID: 8339147386728803971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_297
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca80d036cc8af9cf0800000000000000
+      internalID: -243290259066124116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_298
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e628a932ef9001550800000000000000
+      internalID: 6129410079974916718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_299
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275a69aa3be7e7ee0800000000000000
+      internalID: -1261431535490914958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_300
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db9c5c2acc304db0800000000000000
+      internalID: -4809777563006362671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_301
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300924da5da56ee10800000000000000
+      internalID: 2226566939562643459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_302
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c716818aa69a37140800000000000000
+      internalID: 4716299510338838908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_303
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d231d19e9049fdb40800000000000000
+      internalID: 5467251242937684781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_304
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1812224e981dd90800000000000000
+      internalID: -7074721926704168471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_305
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cb043b443d5a3c0800000000000000
+      internalID: -4348837573137744838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_306
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53a1cf909054b780800000000000000
+      internalID: -8668214800695581857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_307
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d20a08a867294010800000000000000
+      internalID: 1173512508356035286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_308
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5becc75a4a21e8f0800000000000000
+      internalID: -513082383754532004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_309
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298808e828bfac6f0800000000000000
+      internalID: -663441456928618350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_310
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93996919789a8b3c0800000000000000
+      internalID: -4343535440870598343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_311
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bfce2aa9616de20800000000000000
+      internalID: 3374909824174979886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_312
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c999472e8e24f8be0800000000000000
+      internalID: -1472884985127724644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_313
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b77a7190c799d10800000000000000
+      internalID: 2132872277030042486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_314
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aadacc27417af60800000000000000
+      internalID: 8045421742613441055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_315
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbce49b35da6d5fa0800000000000000
+      internalID: -5810370480177877825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_316
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510d4479b765b33d0800000000000000
+      internalID: -3225889619261992939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_317
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 395
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caebb968eff801d0800000000000000
+      internalID: -3384173746297509182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_318
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681da3bae9ca587c0800000000000000
+      internalID: -4069656890781806202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_319
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2ff4908021d3070800000000000000
+      internalID: 8087640331552551593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_320
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6283ffb07a03396c0800000000000000
+      internalID: -4137910138604406746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_321
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b2a1c66fa473080800000000000000
+      internalID: -9207808490899625172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_322
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305b3d5b9becf71d0800000000000000
+      internalID: -3350732300725537533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_323
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98904d68018a3d960800000000000000
+      internalID: 7625623383003367817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_324
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd6fd7a2f9fc95b0800000000000000
+      internalID: -5360134635883893292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_325
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3120c373a1606fdf0800000000000000
+      internalID: -146923228177366509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_326
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917ee42536fe398d0800000000000000
+      internalID: -2840663730078947559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_327
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdc0a083d2586420800000000000000
+      internalID: 2623437851292913081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_328
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83feb75a1510383d0800000000000000
+      internalID: -3205717059577319624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_329
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa14b3c49218100f0800000000000000
+      internalID: -1152498015257542230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_330
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3f56b24fc737ff0800000000000000
+      internalID: -39550583574236183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_331
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7ef5f4ff41f5f30800000000000000
+      internalID: 4566391633957873601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_332
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b987a72f6062d50800000000000000
+      internalID: 6712059933148879617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_333
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddceb288b746ab9e0800000000000000
+      internalID: -1604859835475825443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_334
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13663fce4f33c2dd0800000000000000
+      internalID: -2509573765311797711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_335
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b18e3b4d14951050800000000000000
+      internalID: 5770681351082508722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_336
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced1a83c4c59374d0800000000000000
+      internalID: -3137999843020366356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_337
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa934a7293f1073d0800000000000000
+      internalID: -3211032203976492630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_338
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dd3ca6076da2290800000000000000
+      internalID: -7914277616834323126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_339
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9d4ecdfdaa0de40800000000000000
+      internalID: 5679227008574609905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_340
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e0c6dd5b690ce30800000000000000
+      internalID: 4521779733728071263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_341
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57b4660f9c81b390800000000000000
+      internalID: -7804302064621406372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_342
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7563372f78d6beea0800000000000000
+      internalID: -5842455660927437225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_343
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a535a864b3d848c20800000000000000
+      internalID: 3207844120320693082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_344
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9752ab527031bd9f0800000000000000
+      internalID: -442739216947206791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_345
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 267
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc32f72c227f64590800000000000000
+      internalID: -7690187585024482356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_346
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ba0d313ae9c0c30800000000000000
+      internalID: 4327007765245504332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_347
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498dfaa115ee150d0800000000000000
+      internalID: -3435703008599484268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_348
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a63efe750a231820800000000000000
+      internalID: 2887697989168412321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_349
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff8770afba87a680800000000000000
+      internalID: -8743867595880951820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_350
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f219df8ec14647e0800000000000000
+      internalID: -1781664247146016010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_351
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7856eed104743b1d0800000000000000
+      internalID: -3336244558245763705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_352
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc5d52f9cb8ca3c0800000000000000
+      internalID: -4346945840848478984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_353
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b102ef1dc130b9a90800000000000000
+      internalID: -7306242548161437669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_354
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4a1646e6fb073e0800000000000000
+      internalID: -2057934548856888115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_355
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6f3947293467f90800000000000000
+      internalID: -6956298278127012128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_356
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0245cd6702ab16e0800000000000000
+      internalID: -1865719467824823795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_357
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af85050ebb394e930800000000000000
+      internalID: 4171621589983451386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_358
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78d26bfcace02e70800000000000000
+      internalID: 9088524275729750140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_359
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b0b9480a0b2fc70800000000000000
+      internalID: 9003452808533052172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_360
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202b9dfca21f491e0800000000000000
+      internalID: -2191861952444517886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_361
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050d05c28fef29490800000000000000
+      internalID: -7740844467647623088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_362
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80f5225b2f264b20800000000000000
+      internalID: 3118231655108964492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_363
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2834de4d3d56dd0800000000000000
+      internalID: -2493353907212549407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_364
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0093c5523ed335f0800000000000000
+      internalID: -778034002836353009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_365
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4433e88f68626da10800000000000000
+      internalID: 1933775451139748676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_366
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e8a09cc6b8db190800000000000000
+      internalID: -7945040868266045907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_367
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17e8833c77b38200800000000000000
+      internalID: 181190154093389597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_368
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990d8edbba1fa0130800000000000000
+      internalID: 3533902577553428633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_369
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9247d6df01087c090800000000000000
+      internalID: -8014296201422867415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_370
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a31ed90464278d0800000000000000
+      internalID: -2850138370831467924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_371
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f3d02e3872ff8f0800000000000000
+      internalID: -504641185855488112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_372
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11944d77170f6f190800000000000000
+      internalID: -7928885723806807791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_373
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54226f90deeb66910800000000000000
+      internalID: 1830360223856337477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_374
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5138c74bd9df1b910800000000000000
+      internalID: 1851539775605736213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_375
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 139
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1486945ecfbc424f0800000000000000
+      internalID: -854333742254561215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_376
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb550b3c00c9f9480800000000000000
+      internalID: -8890215612309023297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_377
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ae235bf943de790800000000000000
+      internalID: -7499279943957550457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_378
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e887822a9ac2acaa0800000000000000
+      internalID: -6140046034884593522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_379
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327262dea32480da0800000000000000
+      internalID: -5978455684480096477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_380
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be81ef47e7ebff60800000000000000
+      internalID: 8069298138028019382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_381
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a8c2c67e8a99360800000000000000
+      internalID: 7176953193097366131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_382
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e8e06dcc2381150800000000000000
+      internalID: 5843476371859213967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_383
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e4b000ecd6004d0800000000000000
+      internalID: -3170413406137397756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_384
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583e0f486d32a5f00800000000000000
+      internalID: 1106236062733230981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_385
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c6100feb28d78d0800000000000000
+      internalID: -2846975632846263251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_386
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4d3d3aa659606c0800000000000000
+      internalID: -4177487319091915598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_387
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7844bc6e87603fb30800000000000000
+      internalID: 4319803583916360839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_388
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a106589f6d8f43eb0800000000000000
+      internalID: -4740890905521332198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_389
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a307af6a24b7d7140800000000000000
+      internalID: 4719063510753636410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_390
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b69be20b62791470800000000000000
+      internalID: 8365843586753468087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_TowerDefense2_391
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744aa67bb7766ec30800000000000000
+      internalID: 4388308667974984775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
