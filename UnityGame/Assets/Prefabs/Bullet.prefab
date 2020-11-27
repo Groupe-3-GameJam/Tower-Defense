@@ -13,9 +13,10 @@ GameObject:
   - component: {fileID: 4338092077004834570}
   - component: {fileID: 8568150894057751013}
   - component: {fileID: -5410082248578430854}
+  - component: {fileID: 4209034986325981491}
   m_Layer: 0
   m_Name: Bullet
-  m_TagString: Untagged
+  m_TagString: BulletPlayer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -112,3 +113,16 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: be6621b077dca254c85f9b801e1c6916, type: 2}
+--- !u!135 &4209034986325981491
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4125200211258509211}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.8
+  m_Center: {x: 0, y: 0, z: 0}

@@ -11,6 +11,8 @@ TagManager:
   - cannonier
   - Turret
   - money
+  - BulletPlayer
+  - BulletEnemy
   layers:
   - Default
   - TransparentFX
